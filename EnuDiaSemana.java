@@ -1,0 +1,7 @@
+
+package Numero4e5;
+
+public enum EnuDiaSemana {
+    JANEIRO,FEVEREIRO, MARCO, ABRIL, MAIO, JUNHO,
+    JULHO, AGOSTO, SETEMBRO, OUTUBRO, NOVEMBRO, DEZEMBRO
+}
